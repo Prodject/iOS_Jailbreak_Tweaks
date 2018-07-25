@@ -1,2 +1,2 @@
 # JailbreakTweaks
-Old jailbreak projects that are abandoned
+Some jailbreak tweaks for iOS
