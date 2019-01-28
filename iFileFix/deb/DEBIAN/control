@@ -1,8 +1,9 @@
 Package: com.parrotgeek.ifilefix
 Name: iFile Crash Fix
 Pre-Depends: grep, sed
+Depends: eu.heinelt.ifile
 Architecture: iphoneos-arm
-Description: NOT A CRACK! Fixes iFile crash on launch.
+Description: Fixes iFile crash on launch.
 Maintainer: parrotgeek1 <parrotgeek1@gmail.com>
 Author: parrotgeek1 <parrotgeek1@gmail.com>
 Section: Tweaks
